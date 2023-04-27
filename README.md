@@ -65,5 +65,5 @@ $ kubectl get service
 $ kubectl get deployement -n default
 $ kubectl port-forward svc/my-flask-service -p 5000:5000
 ```
-
+![unknown_001](https://user-images.githubusercontent.com/20161437/234735904-510606d2-00dd-4452-8bff-b1a8d9481849.png)
 
